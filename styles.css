@@ -213,18 +213,18 @@ img {
   font-size: 16px;
 }
 
-#tribute-link:visited {
+.tribute-link:visited {
   color: #e8d5b7;
 }
 
-#tribute-link:hover {
+.tribute-link:hover {
   color: #fc3a52;
 }
 
-#tribute-link:active {
+.tribute-link:active {
   color: #f9b248;
 }
 
-#tribute-link {
+.tribute-link {
   color: #e8d5b7;
 }
